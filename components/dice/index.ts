@@ -1,0 +1,5 @@
+export { default as D4 } from './D4'
+export { default as D6 } from './D6'
+export { default as D8 } from './D8'
+export { default as D20 } from './D20'
+export { default as D100 } from './D100'
